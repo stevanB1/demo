@@ -1,0 +1,147 @@
+[33mcommit 5aeb361a1a71a09a4c7ae7be3de700cd181ded74[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:41:04 2021 +0100
+
+    changed
+
+[33mcommit 51a635a29721b9b0ed7619b9bb7564914c743883[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:39:51 2021 +0100
+
+    .gitignore
+
+[33mcommit 9af4868200ffe0dd6144476a6e592681a4d3c8b2[m
+Merge: 4a956f2 cd1192d
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:38:48 2021 +0100
+
+    resolving conlfilcts
+
+[33mcommit cd1192d79763c60951ca3d469fba3d8a529a6e29[m[33m ([m[1;32mjp[m[33m)[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:33:26 2021 +0100
+
+    jp changes
+
+[33mcommit 4a956f213a1a97ace0ed48bd77ada4625f7be550[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:32:53 2021 +0100
+
+    master
+
+[33mcommit 0e2b80dd4e00ae425200553fd146a6649ea07760[m
+Merge: 100b6a1 cba7ebf
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:31:01 2021 +0100
+
+    finishing
+
+[33mcommit cba7ebfa522c34a5873c0a41a42e54b4ac5280be[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:29:29 2021 +0100
+
+    on jp
+
+[33mcommit 100b6a1241f01ed8188bd614d6b2281f17db9c1e[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:28:36 2021 +0100
+
+    changing on master
+
+[33mcommit 01cbfda880de5d84da0359db12a38a1286f87972[m
+Merge: 3947f49 f113c02
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:20:18 2021 +0100
+
+    commiting on master after resolving conflicts
+
+[33mcommit 3947f49f4a9d4847b59a26b2971c87eb9b98fe4f[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:18:57 2021 +0100
+
+    changes on master
+
+[33mcommit f113c02349c1b677f4426f3150b5d4f3759c98bb[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 18:18:01 2021 +0100
+
+    jp changes
+
+[33mcommit bc394a6c361926a8b73417783012e7e0af31e755[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 17:56:14 2021 +0100
+
+    updating ignore files
+
+[33mcommit 28e98ce99436711c9d5821f4508d681c56de1204[m
+Merge: 7262767 4c237e5
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 17:54:55 2021 +0100
+
+    resolving conlficts
+
+[33mcommit 7262767c6b771d1cada85e1723095b02bc59ef6f[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 17:49:05 2021 +0100
+
+    issues
+
+[33mcommit 4c237e54a841c673fcfc52a1788f45d3e954a6d1[m[33m ([m[1;32mmyBranch[m[33m)[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 17:47:35 2021 +0100
+
+    very bad update
+
+[33mcommit 02c345b773e9f36e95d04f5925442680b8868e4e[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Sat Mar 20 17:37:04 2021 +0100
+
+    adding new changes on update branch
+
+[33mcommit 25a6ee4809077523afd2b91ea3fb2bbc48013a3c[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 23:11:28 2021 +0100
+
+    adding ignore file
+
+[33mcommit ecc7468d2ca71357fa8cb330c47031f6eff9a6ef[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 23:07:25 2021 +0100
+
+    deleted
+
+[33mcommit 5daa2ddad0843124944f2500d02c665db1d4f55e[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 23:06:49 2021 +0100
+
+    all
+
+[33mcommit 54f56234adf760757dcc782c5797dcd2675bccfe[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 22:59:52 2021 +0100
+
+    deletion
+
+[33mcommit f1372c23326becfe1b9e9aeac4c8abe7917d0396[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 22:57:20 2021 +0100
+
+    renaming example
+
+[33mcommit e898641be19251f7e6a02f44bbe772dfd422e17d[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 22:55:41 2021 +0100
+
+    adding exmple.txt file
+
+[33mcommit 7ae03c7b424ad78c5035dbf79c125dd23893b03f[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 22:32:50 2021 +0100
+
+    updating README
+
+[33mcommit 239e1c31c7e7227d32eb5d80d4f5840e6622b01d[m
+Author: jp10 <123steva123@gmail.com>
+Date:   Fri Mar 19 22:21:20 2021 +0100
+
+    Adding both files
